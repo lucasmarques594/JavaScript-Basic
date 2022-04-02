@@ -1,2 +1,0 @@
-# Shine
-javascriptbasic.js
